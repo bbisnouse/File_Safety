@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FireSafety</string>
+    <string name="firesafety_logo">FireSafety Logo</string>
+    <string-array name="options">
+        <item>Notice</item>
+        <item>Photo</item>
+        <item>Video</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="inputmobile">"请输入手机号"</string>
+    <string name="content">"请输入附加内容"</string>
+    <string name="jingdu">"请设置经度"</string>
+    <string name="weidu">"请设置维度"</string>
+    <string name="button">"发送"</string>
+</resources>
